@@ -1,6 +1,7 @@
 # Welcome to Poli-Hotel  ☺
 Nuestro proyecto trata sobre una aplicación que se encargue de la administración de un hotel, que interactuará con el cliente, el recepcionista y el gerente cada uno ingresando a la plataforma con su respectivo id y contraseña.
 *Gerente
+
 El gerente se encargará de la administración del hotel, podrá contratar trabajadores, despedirlos, ver los gastos e ingresos del hotel, hacer los pagos a los trabajadores, modificar el sueldo de los empleados y cambiar de puesto a los  empleados.
 En caso de varias quejas, sobre algún trabajador determinado esas quejas llegaran directamente al gerente el cual podrá revisarlas y decidirá si se despide al empleado o no.
 *Recepcionista 
